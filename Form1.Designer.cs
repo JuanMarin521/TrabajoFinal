@@ -96,6 +96,7 @@
             this.panelObjetosSubMenu.Name = "panelObjetosSubMenu";
             this.panelObjetosSubMenu.Size = new System.Drawing.Size(250, 158);
             this.panelObjetosSubMenu.TabIndex = 4;
+            this.panelObjetosSubMenu.Paint += new System.Windows.Forms.PaintEventHandler(this.panelObjetosSubMenu_Paint);
             // 
             // btnIncreCantiObjetos
             // 
@@ -195,6 +196,7 @@
             this.panelPersonasSubMenu.Name = "panelPersonasSubMenu";
             this.panelPersonasSubMenu.Size = new System.Drawing.Size(250, 84);
             this.panelPersonasSubMenu.TabIndex = 2;
+            this.panelPersonasSubMenu.Paint += new System.Windows.Forms.PaintEventHandler(this.panelPersonasSubMenu_Paint);
             // 
             // btnEliminarPersona
             // 

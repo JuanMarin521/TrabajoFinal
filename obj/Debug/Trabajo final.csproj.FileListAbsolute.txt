@@ -1,0 +1,17 @@
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.UserControl1.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe.config
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form2.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form3.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form4.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form5.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form6.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form7.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form8.resources
